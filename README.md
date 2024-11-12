@@ -16,7 +16,7 @@ The Currency Converter website is a user-friendly, real-time currency exchange t
 <b>useCurr </b>: Handles API requests to fetch currency data, manages loading and error states, and provides formatted data for the main components.<br><br>
 
 <b>Core Functionalities</b><br>
-<b>Currency Selection <b>: Allows users to select the base and target currencies from dropdown menus.<br>
+<b>Currency Selection </b>: Allows users to select the base and target currencies from dropdown menus.<br>
 <b>Amount Input</b>: Lets users enter the amount to be converted in the base currency.<br>
 <b>Result Display </b>: Shows the converted amount in real-time based on the most recent exchange rate.<br>
 <b>Swap Currencies </b>: Provides a quick option to swap the base and target currencies for ease of comparison.<br>
